@@ -1,4 +1,7 @@
 #!/bin/sh
 
-echo ahoj
+echo ahoj svet
+
+# komentar
+
 exit 0
